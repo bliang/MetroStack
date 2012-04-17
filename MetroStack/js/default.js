@@ -15,7 +15,7 @@
                 // Restore application state here.
             }
             WinJS.UI.processAll();
-        }
+        } 
     };
 
     app.oncheckpoint = function (eventObject) {
